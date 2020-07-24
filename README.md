@@ -1,9 +1,7 @@
 ### Welcome to the party! 👋🏾
 
-<!--
-**stef-codes/stef-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-He:
+Here we go:
 
 - 🔭 I’m currently working on data engineering 
 - 🌱 I’m currently learning so much 😩
@@ -13,4 +11,4 @@ He:
 - 📫 How to reach me: stefcodes@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm learning to DJ 🎧
--->
+
