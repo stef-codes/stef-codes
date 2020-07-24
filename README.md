@@ -1,7 +1,6 @@
 ### Welcome to the party! 👋🏾
 
 
-Here we go:
 
 - 🔭 I’m currently working on data engineering 
 - 🌱 I’m currently learning so much 😩
