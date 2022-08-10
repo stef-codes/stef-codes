@@ -1,13 +1,12 @@
 ### Welcome to the party! 👋🏾
 
 
-
-- 🔭 I’m currently working on data engineering 
-- 🌱 I’m currently learning so much 😩
-- 👯‍♀️ I’m looking to collaborate on 🎼
-- 🤔 I’m looking for help with open source and productivity
+- 😄 Pronouns: she/her
+- 🔭 Experience: @DeveloperDao, @Filecoin, @Nike, and more
+- 🌱 Learning Focus: @GraphProtocol, @Alchemy, and @womenbuildweb3 curriculum
+- 👯‍♀️ Open for collaborations
+- 🤔 Mindset Focus: Productivity, Pateince, and Mental Health
 - 💬 Ask me about casual ultralearning
 - 📫 How to reach me: stefcodes@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm learning to DJ 🎧
 
