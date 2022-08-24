@@ -8,5 +8,5 @@
 - 🤔 Mindset Focus: Productivity, Pateince, and Mental Health
 - 💬 Ask me about casual ultralearning
 - 📫 How to reach me: stefcodes@gmail.com
-- ⚡ Fun fact: I'm learning to DJ 🎧
+- ⚡ Fun fact: I'm a music producer and DJ 🎧
 
