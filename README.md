@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefanie</h1>
 <h3 align="center">A creative data engineer from Los Angeles</h3>
 
-- 🔭 I’m currently working on **Soundphase**
+- 🔭 I’m currently working on **ChefItUp**
 
 - 💬 Ask me about **data modeling, consulting, and music production**
 
