@@ -10,9 +10,4 @@
 - ⚡ Fun fact **I still think coding is magic**
 
 <h4 align="left">Connect with me: @steflikecurry on Twitter</h4>
-<p align="left">
-</p>
-
-
-
-
+<p align="left"></p>
