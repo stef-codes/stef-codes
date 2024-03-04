@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefanie</h1>
-<h3 align="center">A creative data engineer from Los Angeles</h3>
+<h3 align="center">A creative data engineer in Phoenix, Arizona (It's really hot here lol)</h3>
 
 - 🔭 I’m currently working on **ChefItUp**
 
